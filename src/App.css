@@ -7,6 +7,9 @@
   font-family: 'Lobster', cursive;
 
 }
+a a{
+  color: white;
+}
 .active{
   color: #3AC4F0;
 }
@@ -88,6 +91,7 @@ p{
   margin-right: auto;
   margin-top: 1%;
   border-radius: 50%;
+  max-width: 90vw;
 
 }
 .whatIKnow{
@@ -101,7 +105,7 @@ p{
   font-family: 'VT323', monospace;
   color: black;
   background-color: #0981bb;
-  height: 100%;
+  height: 110vh;
   width: 50%;
 }
 .whatIAmLearning{
@@ -113,7 +117,7 @@ p{
 .whatIAmLearning2{
   font-family: 'VT323', monospace;
   background-color: #3ac4f0;
-  height: 100%;
+  height: 110vh;
   width: 50%;
 }
 .skill-title{
@@ -158,6 +162,9 @@ p{
 .skill-description{
   padding-top: 4.5vh;
   height: 100%
+}
+.skill-description2{
+  padding-top: 4.5vh;
 }
 .portfolio{
   height: 100%;
@@ -212,4 +219,22 @@ p{
 }
 .project-description{
   padding-top: 20px;
+}
+.contact-info{
+  height: 20vh;
+  color: black;
+}
+.contact-text{
+
+}
+.contact-text2{
+padding-top: 30vh;
+}
+#who-stole{
+  height: 50vh;
+  width: 75vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
 }

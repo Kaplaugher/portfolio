@@ -38,11 +38,6 @@ class Section4 extends Component {
                 <div className="icon-grid">
                   <i className="devicon-linux-plain"></i>
                 </div>
-                <div className="icon-grid">
-                  <i className="devicon-trello-plain-wordmark"></i>
-                </div>
-
-
               </div>
             </div>
             <div className='col-xs-12 col-sm-6 whatIAmLearning'>
