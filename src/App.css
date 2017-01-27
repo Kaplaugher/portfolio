@@ -1,0 +1,102 @@
+.title{
+  color: white;
+  font-family: 'Lobster', cursive;
+}
+.nav-tab{
+  color: white;
+  font-family: 'Lobster', cursive;
+
+}
+hr{
+	color: black;
+	width: 70%;
+}
+.greeting{
+  font-size: 85px;
+  font-family: 'VT323', monospace;
+  position: absolute;
+	margin: 0;
+	padding: 0;
+	top:200px;
+	left: 0;
+	height: 100vh;
+	width: 100%;
+  text-align: center;
+}
+.menu-down{
+  background-color: white;
+  border: none;
+}
+
+
+.aboutMe{
+  font-family: 'VT323', monospace;
+  background-color: #3ac4f0;
+  height: 400px;
+  width: 100%;
+}
+h1{
+  font-family: 'VT323', monospace;
+  text-align: center;
+}
+p{
+  font-family: 'Roboto', sans-serif;  color: black;
+  color: white;
+}
+
+.pictureOfMe{
+  background-color:#0981bb;
+  height: 400px;
+  width: 100%;
+}
+#me{
+  height: 75%;
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border-radius: 50%;
+
+}
+.whatIKnow{
+  font-family: 'VT323', monospace;
+  color: black;
+  background-color: #0981bb;
+  height: 500px;
+  width: 100%;
+}
+.whatIAmLearning{
+  font-family: 'VT323', monospace;
+  background-color: #3ac4f0;
+  height: 500px;
+  width: 100%;
+}
+.skill-title{
+  font-size: 40px;
+  text-align: center;
+}
+.skills{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+
+}
+.icon-grid{
+  font-size: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  padding-left: 10px;
+
+}
+.portfolio{
+  height: 200px;
+  width: 100%;
+  background-color: black;
+}
+#portfolio-title{
+  font-family: 'Roboto', sans-serif;  color: black;
+  color: white;
+}
