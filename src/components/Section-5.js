@@ -1,9 +1,13 @@
 import React, {Component} from 'react';
+import Navbar1 from './section-1';
+
 
 
 class Section5 extends Component {
     render() {
         return (
+      <div className="wrapper">
+        <Navbar1 />
         <div className="container-fluid">
           <div className='row'>
             <div className="col-xs-12 portfolio">
@@ -18,6 +22,7 @@ class Section5 extends Component {
 
           </div>
         </div>
+      </div>
         )
     }
 }

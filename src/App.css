@@ -7,6 +7,9 @@
   font-family: 'Lobster', cursive;
 
 }
+.active{
+  color: #3AC4F0;
+}
 hr{
 	color: black;
 	width: 70%;
@@ -35,13 +38,32 @@ hr{
   height: 400px;
   width: 100%;
 }
+.aboutMe33{
+  font-family: 'VT323', monospace;
+  background-color: #3ac4f0;
+  height: 100vh;
+  width: 100%;
+  padding-top: 40px;
+}
+
 h1{
   font-family: 'VT323', monospace;
   text-align: center;
 }
+.about-me{
+  font-family: 'VT323', monospace;
+  text-align: center;
+  font-size: 70px;
+
+}
 p{
   font-family: 'Roboto', sans-serif;  color: black;
   color: white;
+}
+.para-me{
+  font-family: 'Roboto', sans-serif;  color: black;
+  color: white;
+  font-size: 30px;
 }
 
 .pictureOfMe{
@@ -59,6 +81,16 @@ p{
   border-radius: 50%;
 
 }
+#me33{
+  height: 40%;
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border-radius: 50%;
+
+}
 .whatIKnow{
   font-family: 'VT323', monospace;
   color: black;
@@ -66,16 +98,35 @@ p{
   height: 500px;
   width: 100%;
 }
+.whatIKnow2{
+  font-family: 'VT323', monospace;
+  color: black;
+  background-color: #0981bb;
+  height: 100vh;
+  width: 50%;
+}
 .whatIAmLearning{
   font-family: 'VT323', monospace;
   background-color: #3ac4f0;
   height: 500px;
   width: 100%;
 }
+.whatIAmLearning2{
+  font-family: 'VT323', monospace;
+  background-color: #3ac4f0;
+  height: 100vh;
+  width: 50%;
+}
 .skill-title{
   font-size: 40px;
   text-align: center;
 }
+.skill-title2{
+  font-size: 100px;
+  text-align: center;
+  padding-top: 15%;
+}
+
 .skills{
   display: flex;
   flex-wrap: wrap;
@@ -83,8 +134,24 @@ p{
 
 
 }
+.skills2{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 20%;
+
+
+}
 .icon-grid{
   font-size: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  padding-left: 10px;
+
+}
+.icon-grid2{
+  font-size: 100px;
   display: flex;
   flex-wrap: wrap;
   color: white;
