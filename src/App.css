@@ -15,7 +15,7 @@ hr{
 	width: 70%;
 }
 .greeting{
-  font-size: 85px;
+  font-size: 10.0vh;
   font-family: 'VT323', monospace;
   position: absolute;
 	margin: 0;
@@ -53,7 +53,7 @@ h1{
 .about-me{
   font-family: 'VT323', monospace;
   text-align: center;
-  font-size: 70px;
+  font-size: 10.0vh;
 
 }
 p{
@@ -63,7 +63,7 @@ p{
 .para-me{
   font-family: 'Roboto', sans-serif;  color: black;
   color: white;
-  font-size: 30px;
+  font-size: 2vh;
 }
 
 .pictureOfMe{
@@ -82,12 +82,11 @@ p{
 
 }
 #me33{
-  height: 40%;
-  width: 40%;
+  height: 30.0vh;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 30px;
+  margin-top: 1%;
   border-radius: 50%;
 
 }
@@ -102,7 +101,7 @@ p{
   font-family: 'VT323', monospace;
   color: black;
   background-color: #0981bb;
-  height: 100vh;
+  height: 100%;
   width: 50%;
 }
 .whatIAmLearning{
@@ -114,7 +113,7 @@ p{
 .whatIAmLearning2{
   font-family: 'VT323', monospace;
   background-color: #3ac4f0;
-  height: 100vh;
+  height: 100%;
   width: 50%;
 }
 .skill-title{
@@ -131,14 +130,11 @@ p{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-
-
 }
 .skills2{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding-top: 20%;
 
 
 }
@@ -147,7 +143,8 @@ p{
   display: flex;
   flex-wrap: wrap;
   color: white;
-  padding-left: 10px;
+  padding-left: 50px;
+  padding-top: 50px;
 
 }
 .icon-grid2{
@@ -158,12 +155,61 @@ p{
   padding-left: 10px;
 
 }
+.skill-description{
+  padding-top: 4.5vh;
+  height: 100%
+}
 .portfolio{
-  height: 200px;
+  height: 100%;
   width: 100%;
   background-color: black;
+}
+#portfolio-title-text{
+  font-size: 1.5vh;
+}
+.portfolio2{
+  height: 200px;
+  width: 100%;
+  margin-top: 200px;
 }
 #portfolio-title{
   font-family: 'Roboto', sans-serif;  color: black;
   color: white;
+}
+#portfolio-title2{
+  font-family: 'VT323', monospace;
+  color: black;
+  font-size: 100px;
+}
+
+.project1{
+  height: 100%;
+  width: 50%;
+  background-color: #3ac4f0;
+}
+.project2{
+  height: 100%;
+  width: 50%;
+  background-color: #0981bb;
+
+}
+#project1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  height: 20.0vh;
+
+}
+#project2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  height: 20.0vh;
+
+
+}
+.project-description{
+  padding-top: 20px;
 }
