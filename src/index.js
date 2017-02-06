@@ -16,7 +16,7 @@ import Section66 from './components/Section-66';
 
 ReactDOM.render(
   <Router history={hashHistory}>
-		<Route path="home" component={App} />
+		<Route path="/" component={App} />
 		<Route path="about" component={Section33} />
     <Route path="experience" component={Section44} />
     <Route path="portfolio" component={Section55} />

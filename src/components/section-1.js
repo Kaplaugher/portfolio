@@ -20,7 +20,7 @@ class Navbar1 extends Component {
                   <Navbar.Collapse>
 
                       <Nav pullRight>
-                        <NavItem eventKey={1}  className="nav-tab"><Link to="home" activeClassName="active">Home</Link>
+                        <NavItem eventKey={1}  className="nav-tab"><Link to="/" activeClassName="active">Home</Link>
 
                         </NavItem>
                         <NavItem eventKey={2}  className="nav-tab"><Link to="about" activeClassName="active">About</Link>

@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
+
 import Navbar1 from './components/section-1';
 import Section2 from './components/Section-2';
 import Section3 from './components/Section-3';
