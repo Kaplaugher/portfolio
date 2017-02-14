@@ -18,17 +18,17 @@ class Section55 extends Component {
           <div className="row">
             <div className="col-xs-12 col-md-6 project1">
               <h1 className="project1-title">
-                blahblahblahblah
+                Geography Game
               </h1>
-              <img src="http://placehold.it/400x300" alt="" id="project1" />
+              <img src="geoScreenShot.png" alt="" id="project11" />
               <p className="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet arcu in nisi faucibus, eget pulvinar ex rutrum. Nullam facilisis dui at sodales bibendum. Vestibulum posuere pharetra nisi.  Pellentesque sit amet imperdiet augue, sed luctus lectus.</p>
 
             </div>
             <div className="col-xs-12 col-md-6 project2">
               <h1 className="project2-title">
-                blahblahblahblah
+                Movie App
               </h1>
-              <img src="http://placehold.it/400x300" alt="" id="project2" />
+              <img src="movieScreenShot.png" alt="" id="project22" />
               <p className="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet arcu in nisi faucibus, eget pulvinar ex rutrum. Nullam facilisis dui at sodales bibendum. Vestibulum posuere pharetra nisi.  Pellentesque sit amet imperdiet augue, sed luctus lectus.</p>
 
             </div>

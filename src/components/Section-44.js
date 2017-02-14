@@ -11,7 +11,7 @@ class Section44 extends Component {
           <div className='row'>
             <div className="col-xs-12 col-sm-6 whatIKnow2">
               <div className="skill-title2">
-                What I Know
+                Current Skills
               </div>
               <div className="skill-grid skills2">
                 <div className="icon-grid2">
@@ -47,7 +47,7 @@ class Section44 extends Component {
             </div>
             <div className='col-xs-12 col-sm-6 whatIAmLearning2'>
               <div className="skill-title2">
-                What I am Learning
+                Developing Skills
               </div>
               <div className="skill-grid skills">
                 <div className="icon-grid2">

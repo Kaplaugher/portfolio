@@ -10,26 +10,26 @@ class Section5 extends Component {
         <Navbar1 />
         <div className="container-fluid">
           <div className='row'>
-            <div className="col-xs-12 portfolio">
+            <div className="col-xs-12 portfolio" id="portfolio-title">
               <h1 id="portfolio-title">Portfolio</h1>
-              <p id="portfolio-title-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet arcu in nisi faucibus, eget pulvinar ex rutrum. Nullam facilisis dui at sodales bibendum. Vestibulum posuere pharetra nisi. Proin in venenatis est, in lobortis tellus. Vestibulum nunc est, condimentum in purus et, volutpat malesuada turpis. Phasellus est augue, accumsan id ipsum vel, ullamcorper facilisis magna. Sed in magna vitae erat congue pretium ac non nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec a iaculis libero. Pellentesque quis eros nec nisl suscipit tincidunt. Pellentesque sit amet imperdiet augue, sed luctus lectus.</p>
+
             </div>
           </div>
           <div className="row">
             <div className="col-xs-12 col-md-6 project1">
               <h1 className="project1-title">
-                blahblahblahblah
+                Geography Game
               </h1>
-              <img src="http://placehold.it/400x300" alt="" id="project1" />
-              <p className="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet arcu in nisi faucibus, eget pulvinar ex rutrum. Nullam facilisis dui at sodales bibendum. Vestibulum posuere pharetra nisi.  Pellentesque sit amet imperdiet augue, sed luctus lectus.</p>
+              <img src="geoScreenShot.png" alt="" id="project1" />
+              <p className="project-description">This is a geography game where you are asked a question and then you have to locate the answer (in the form of a marker) on the map. The catch is that the marker does not appear until you zoom into a specific level of the map. Once you locate the marker you can click on it. An info window will appear letting you know the name of the location you have found. You can then click the button within the info window to progress through the game. Built with React.js, NPM modules, Google Maps API and JavaScript.</p>
 
             </div>
             <div className="col-xs-12 col-md-6 project2">
               <h1 className="project2-title">
-                blahblahblahblah
+                Movie App
               </h1>
-              <img src="http://placehold.it/400x300" alt="" id="project2" />
-              <p className="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet arcu in nisi faucibus, eget pulvinar ex rutrum. Nullam facilisis dui at sodales bibendum. Vestibulum posuere pharetra nisi.  Pellentesque sit amet imperdiet augue, sed luctus lectus.</p>
+              <img src="movieScreenShot.png" alt="" id="project2" />
+              <p className="project-description">This is a Movie App that makes API calls to The Movie Database and returns data that I use to build the page. From the Nav Bar you are able to browse Now Playing, Upcoming, Popular, and Top Rated movies. Built with HTML, CSS, AJAX, JavaScript and jQuery.</p>
 
             </div>
 
