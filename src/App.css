@@ -85,8 +85,12 @@ p{
   font-size: 2vh;
 }
 
+#about-me{
+  font-size: 1.5em;
+}
+
 .pictureOfMe{
-  background-color:#0981bb;
+  background-color: #3ac4f0;
   height: 50vh;
   width: 100%;
 }
@@ -126,7 +130,7 @@ p{
 }
 .whatIAmLearning{
   font-family: 'VT323', monospace;
-  background-color: #3ac4f0;
+  background-color: #0981bb;
   height: 50vh;
   width: 100%;
 }
@@ -197,7 +201,6 @@ p{
   margin-top: 200px;
 }
 #portfolio-title{
-  font-family: 'Roboto', sans-serif;  color: black;
   color: black;
   padding-top: 20px;
   font-family: 'VT323', monospace;
@@ -305,4 +308,30 @@ padding-top: 30vh;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
+}
+
+.btn{
+  background: #3ac4f0;
+  font-size: 100px;
+}
+
+#email{
+  color: black;
+  font-size: 1.5em;
+}
+
+#github:hover{
+  background-color: #3ac4f0;
+}
+#linkedin:hover{
+  background-color: #3ac4f0;
+}
+
+#contact-info{
+  font-family: 'VT323', monospace;
+  font-size: 3em;
+}
+
+.contact-buttons{
+
 }

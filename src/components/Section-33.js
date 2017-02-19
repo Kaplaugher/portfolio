@@ -12,8 +12,9 @@ class Section33 extends Component {
           <div className='row'>
             <div className="col-xs-12 aboutMe33">
               <h1 className="about-me">About me</h1>
-              <p className="para-me">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet arcu in nisi faucibus, eget pulvinar ex rutrum. Nullam facilisis dui at sodales bibendum. Vestibulum posuere pharetra nisi. Proin in venenatis est, in lobortis tellus. Vestibulum nunc est, condimentum in purus et, volutpat malesuada turpis. Phasellus est augue, accumsan id ipsum vel, ullamcorper facilisis magna. Sed in magna vitae erat congue pretium ac non nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec a iaculis libero. Pellentesque quis eros nec nisl suscipit tincidunt. Pellentesque sit amet imperdiet augue, sed luctus lectus.</p>
-              <img id="me33" src="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/03/09/103455746-GettyImages-512791400.600x400.jpg?v=1457542554" alt="" />
+              <p className="para-me">My name is Kyle Plaugher, I am a Full-Stack Developer based in Atlanta, Ga.
+                I enjoy all things tech, especially app design and video games! When I am not on the computer, you can usually find me at the gym or catching up on my favorite books. I’m excited for new job opportunities and the chance to further my career and skills. Feel free to contact me at anytime! It would be great to hear from you.</p>
+              <img id="me33" src="kylepic.jpg" alt="" />
             </div>
 
           </div>

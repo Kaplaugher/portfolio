@@ -20,7 +20,8 @@ class Section5 extends Component {
               <h1 className="project1-title">
                 Geography Game
               </h1>
-              <img src="geoScreenShot.png" alt="" id="project1" />
+              <a href="http://kapcode.me/geographygame" target="_blank"><img src="geoScreenShot.png" id="project1" />
+              </a>
               <p className="project-description">This is a geography game where you are asked a question and then you have to locate the answer (in the form of a marker) on the map. The catch is that the marker does not appear until you zoom into a specific level of the map. Once you locate the marker you can click on it. An info window will appear letting you know the name of the location you have found. You can then click the button within the info window to progress through the game. Built with React.js, NPM modules, Google Maps API and JavaScript.</p>
 
             </div>
@@ -28,7 +29,8 @@ class Section5 extends Component {
               <h1 className="project2-title">
                 Movie App
               </h1>
-              <img src="movieScreenShot.png" alt="" id="project2" />
+              <a href="http://kapcode.me/movieapp" target="_blank"><img src="movieScreenShot.png" id="project2" />
+              </a>
               <p className="project-description">This is a Movie App that makes API calls to The Movie Database and returns data that I use to build the page. From the Nav Bar you are able to browse Now Playing, Upcoming, Popular, and Top Rated movies. Built with HTML, CSS, AJAX, JavaScript and jQuery.</p>
 
             </div>

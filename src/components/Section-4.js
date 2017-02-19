@@ -36,7 +36,7 @@ class Section4 extends Component {
                   <i className="devicon-amazonwebservices-plain-wordmark"></i>
                 </div>
                 <div className="icon-grid">
-                  <i className="devicon-linux-plain"></i>
+                  <i className="devicon-mysql-plain-wordmark"></i>
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@ class Section4 extends Component {
                   <i className="devicon-wordpress-plain-wordmark"></i>
                 </div>
                 <div className="icon-grid">
-                  <i className="devicon-mysql-plain-wordmark"></i>
+                  <i className="devicon-linux-plain"></i>
                 </div>
                 <div className="icon-grid">
                   <i className="devicon-java-plain-wordmark"></i>

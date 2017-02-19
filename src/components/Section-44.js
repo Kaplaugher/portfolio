@@ -36,9 +36,9 @@ class Section44 extends Component {
                   <i className="devicon-amazonwebservices-plain-wordmark"></i>
                 </div>
                 <div className="icon-grid2">
-                  <i className="devicon-linux-plain"></i>
+                  <i className="devicon-mysql-plain-wordmark"></i>
                 </div>
-                <p className="skill-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel maximus mauris. Vestibulum quam felis, euismod quis congue ac, pulvinar vel turpis. Duis ac enim orci. Quisque nec nisl in risus lacinia consectetur. Mauris in dignissim purus, eu venenatis nunc. Vestibulum a turpis id dui dictum ornare. Aenean vulputate risus a tristique consectetur. Praesent vel felis malesuada, iaculis est eu, vestibulum tellus. Fusce in purus in est semper lobortis. In faucibus sodales justo, sit amet ultrices lectus pulvinar vel. Proin elit sem, luctus ut ullamcorper eget, accumsan vitae purus. Etiam tristique arcu purus, non gravida justo tincidunt a. Pellentesque at pellentesque nibh. Donec ut dolor a metus egestas placerat eget posuere quam.
+                <p className="skill-description">
 
                 </p>
 
@@ -47,7 +47,7 @@ class Section44 extends Component {
             </div>
             <div className='col-xs-12 col-sm-6 whatIAmLearning2'>
               <div className="skill-title2">
-                Developing Skills
+                Still Learning
               </div>
               <div className="skill-grid skills">
                 <div className="icon-grid2">
@@ -63,7 +63,7 @@ class Section44 extends Component {
                   <i className="devicon-wordpress-plain-wordmark"></i>
                 </div>
                 <div className="icon-grid2">
-                  <i className="devicon-mysql-plain-wordmark"></i>
+                  <i className="devicon-linux-plain"></i>
                 </div>
                 <div className="icon-grid2">
                   <i className="devicon-java-plain-wordmark"></i>
@@ -74,8 +74,7 @@ class Section44 extends Component {
                 <div className="icon-grid2">
                   <i className="devicon-coffeescript-original-wordmark"></i>
                 </div>
-                <p className="skill-description2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel maximus mauris. Vestibulum quam felis, euismod quis congue ac, pulvinar vel turpis. Duis ac enim orci. Quisque nec nisl in risus lacinia consectetur. Mauris in dignissim purus, eu venenatis nunc. Vestibulum a turpis id dui dictum ornare. Aenean vulputate risus a tristique consectetur. Praesent vel felis malesuada, iaculis est eu, vestibulum tellus. Fusce in purus in est semper lobortis. In faucibus sodales justo, sit amet ultrices lectus pulvinar vel. Proin elit sem, luctus ut ullamcorper eget, accumsan vitae purus. Etiam tristique arcu purus, non gravida justo tincidunt a. Pellentesque at pellentesque nibh. Donec ut dolor a metus egestas placerat eget posuere quam.
-
+                <p className="skill-description2">
                 </p>
 
               </div>
