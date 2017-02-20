@@ -15,7 +15,7 @@ class Section6 extends Component {
                               <h2 id="contact-info">Contact Info</h2>
                               <hr className="small"/>
                               <p>
-                                  <a id="email" href="mailto:Kaplaugher@gmail.com">Kaplaugher@gmail.com</a>
+                                  <a id="email" href="mailto:kaplaugher94@gmail.com">kaplaugher94@gmail.com</a>
                               </p>
                               <ul className="list-inline contact-buttons">
                                   <li>
