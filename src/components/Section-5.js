@@ -29,7 +29,7 @@ class Section5 extends Component {
               <h1 className="project2-title">
                 Movie App
               </h1>
-              <a href="http://kapcode.me/movieapp" target="_blank"><img src="movieScreenShot.png" id="project2" />
+              <a href="http://kapcode.me/new-movie-app" target="_blank"><img src="movieScreenShot.png" id="project2" />
               </a>
               <p className="project-description">This is a Movie App that makes API calls to The Movie Database and returns data that I use to build the page. From the Nav Bar you are able to browse Now Playing, Upcoming, Popular, and Top Rated movies. Built with HTML, CSS, AJAX, JavaScript and jQuery.</p>
 
