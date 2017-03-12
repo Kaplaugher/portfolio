@@ -54,8 +54,8 @@ hr{
 .aboutMe{
   font-family: 'VT323', monospace;
   background-color: #3ac4f0;
-  height: 50vh;
   width: 100%;
+  height: 40vh;
 }
 .aboutMe33{
   font-family: 'VT323', monospace;
@@ -91,16 +91,16 @@ p{
 
 .pictureOfMe{
   background-color: #3ac4f0;
-  height: 50vh;
   width: 100%;
+  height: 40vh;
 }
 #me{
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 250px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 30px;
+  margin-top: 10px;
   border-radius: 50%;
 
 }
@@ -118,7 +118,6 @@ p{
   font-family: 'VT323', monospace;
   color: black;
   background-color: #0981bb;
-  height: 50vh;
   width: 100%;
 }
 .whatIKnow2{
@@ -131,7 +130,6 @@ p{
 .whatIAmLearning{
   font-family: 'VT323', monospace;
   background-color: #0981bb;
-  height: 50vh;
   width: 100%;
 }
 .whatIAmLearning2{
@@ -169,6 +167,7 @@ p{
   color: white;
   padding-left: 50px;
   padding-top: 50px;
+  margin-bottom: 10px;
 
 }
 .icon-grid2{
@@ -214,14 +213,15 @@ p{
 }
 
 .project1{
-  height: 50vh;
   width: 50%;
   background-color: #3ac4f0;
+  height: 54vh;
+
 }
 .project2{
-  height: 50vh;
   width: 50%;
   background-color: #0981bb;
+  height: 54vh;
 
 }
 #project1{
@@ -290,7 +290,7 @@ p{
 }
 .project-description{
   padding-top: 20px;
-  font-size: 1.3vh;
+  font-size: 1.5vh;
 }
 .contact-info{
   height: 20vh;
