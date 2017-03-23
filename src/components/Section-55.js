@@ -27,12 +27,11 @@ class Section55 extends Component {
             </div>
             <div className="col-xs-12 col-md-6 project2">
               <h1 className="project2-title">
-                Movie App
+                AtlantaVibes
               </h1>
-              <a href="http://kapcode.me/new-movie-app" target="_blank"><img src="movieScreenShot.png" id="project22" />
+              <a href="http://kapcode.me/AtlantaVibes/#/" target="_blank"><img src="atlantavibes.png" id="project2" />
               </a>
-              <p className="project-description">This is a Movie App that makes API calls to The Movie Database and returns data that I use to build the page. From the Nav Bar you are able to browse Now Playing, Upcoming, Popular, and Top Rated movies. Built with HTML, CSS, AJAX, JavaScript and jQuery.</p>
-
+              <p className="project-description">AtlantaVibes is a Full-Stack application that aggregates data from the top ten music festivals into one easy to use website. AtlantaVibes lets users view, rate, comment and purchase tickets for their favorite festivals in Atlanta. Built with HTML, CSS, Javascript, React.js, Redux, Node.js, Express, SASS, NPM, MySQL, and AWS</p>
             </div>
 
           </div>
